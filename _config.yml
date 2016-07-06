@@ -1,0 +1,14 @@
+layout_spectrum: 0.13231820613145828
+typography_spectrum: 0.6350832781754434
+color:
+  brandStrength: 0.36293910606764257
+  lightness: 0.807983559789136
+  saturation: 0.04051587590947747
+  rhythmicContrast: 0.6551928336266428
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Evan's Site
